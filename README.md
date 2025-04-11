@@ -1,39 +1,38 @@
-# About Me
+# 👋 Hi, I’m Ismael Silva — aka @AkiraNim
 
-Hello! I'm a student currently pursuing a degree in Systems Development at SENAI.  
+I'm a student currently pursuing Systems Development at SENAI.
 
-I'm passionate about technology and software development, always looking to improve my skills and learn new tools and technologies.
-
-I enjoy working on personal projects that challenge me and help me grow as a developer.  
+I’m passionate about programming and technology, always looking for new challenges and opportunities to improve my skills.
 
 ---
 
-## Technologies I Work With
+## 👀 I’m interested in
 
-- C
-- Java
-- HTML & CSS
-- JavaScript  
-
-I'm constantly exploring new technologies and improving my knowledge in backend, frontend, and software architecture.
+- Software Development
+- Learning new technologies
+- Working on real-world projects
+- Collaborating with developers
 
 ---
 
-## Goals
+## 🌱 I’m currently learning
 
-- Develop solid skills in software engineering.
-- Build useful and well-structured projects.
-- Collaborate with real-world projects and open-source communities.
-- Become a professional software developer.
+- C  
+- C++  
+- Java  
+
+---
+
+## 😄 Pronouns
+
+He/Him  
 
 ---
 
 ## Contact
 
-Feel free to get in touch!
-
-- GitHub: github.com/AkiraNim
-- Email: ismaeldejesus193@gmail.com
+- GitHub: [@AkiraNim](https://github.com/AkiraNim)  
+- Email: ismaeldejesus193@gmail.com  
 
 ---
 
